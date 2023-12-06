@@ -1,0 +1,4 @@
+CREATE DATABASE sbbtest_001;
+USE sbbtest_001;
+SELECT * FROM article;
+SELECT * FROM site_user;
